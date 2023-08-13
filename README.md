@@ -1,7 +1,7 @@
-Command Line Contacts Management App
+# Command Line Contacts Management App
 This command line application provides a convenient way to manage a list of contacts. You can add, view, update, and delete contacts using command line commands.
 
-Installation:
+## Installation:
 
 1. Clone this repository to your computer:
 
@@ -15,7 +15,7 @@ Installation:
 
 		npm install
 
-Usage:
+## Usage:
 
 The application provides the following commands for performing contact operations:
 
@@ -41,7 +41,7 @@ node index.js --action list
 
 For each operation, provide the necessary parameters such as name, email, phone number, etc. Upon successful completion of the operation, the result will be displayed in the console.
 
-Examples:
+## Examples:
 
     [case "list": ](https://ibb.co/SmYg1J0)
 	
