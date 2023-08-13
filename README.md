@@ -47,9 +47,9 @@ For each operation, provide the necessary parameters such as name, email, phone 
 	
    case "get": <https://ibb.co/1RRSfHp>
 
-   ![case "add":](https://ibb.co/59kNJRZ)
+   case "add": <https://ibb.co/59kNJRZ>
 	
-    ![case "update":](https://ibb.co/LY1CD6s)
+   case "update": <https://ibb.co/LY1CD6s>
 
-    ![case "remove":](https://ibb.co/JQzHRMy)
+   case "remove": <https://ibb.co/JQzHRMy>
    
