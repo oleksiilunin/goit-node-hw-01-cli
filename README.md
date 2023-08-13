@@ -43,11 +43,11 @@ For each operation, provide the necessary parameters such as name, email, phone 
 
 ## Examples:
 
-    ![case "list":](https://ibb.co/SmYg1J0)
+   case "list": <https://ibb.co/SmYg1J0>
 	
-    ![case "get":](https://ibb.co/1RRSfHp)
+   case "get": <https://ibb.co/1RRSfHp>
 
-    ![case "add":](https://ibb.co/59kNJRZ)
+   ![case "add":](https://ibb.co/59kNJRZ)
 	
     ![case "update":](https://ibb.co/LY1CD6s)
 
