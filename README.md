@@ -43,7 +43,7 @@ For each operation, provide the necessary parameters such as name, email, phone 
 
 Examples:
 
-    case "list": https://ibb.co/SmYg1J0
+    [case "list": ](https://ibb.co/SmYg1J0)
 	
     case "get": https://ibb.co/1RRSfHp
 
