@@ -44,12 +44,16 @@ For each operation, provide the necessary parameters such as name, email, phone 
 ## Examples:
 - case "list":
    ![case "list":](https://i.ibb.co/Wz8XdsF/list.png)
-	
+
+- case "get":
    ![case "get":](https://i.ibb.co/7rr9J7T/get.png)
-   
+
+- case "add":
    ![case "add":](https://i.ibb.co/LPrLsZK/add.png)
 
+- case "update":
    ![case "update":](https://i.ibb.co/sbqFpQX/update.png)
-   
+
+- case "remove":
    ![case "remove":](https://i.ibb.co/m8H4CMX/remove.png)
    
