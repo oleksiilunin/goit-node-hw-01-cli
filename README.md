@@ -42,7 +42,7 @@ node index.js --action list
 For each operation, provide the necessary parameters such as name, email, phone number, etc. Upon successful completion of the operation, the result will be displayed in the console.
 
 ## Examples:
-
+- case "list":
    ![case "list":](https://i.ibb.co/Wz8XdsF/list.png)
 	
    ![case "get":](https://i.ibb.co/7rr9J7T/get.png)
