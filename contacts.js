@@ -8,7 +8,6 @@ function write(data) {
   return fs.writeFile(contactsPath, JSON.stringify(data, null, 2));
 }
 
-// TODO: задокументировать каждую функцию
 async function listContacts() {
   const data = await fs.readFile(contactsPath, "utf8");
   return JSON.parse(data);
@@ -32,7 +31,7 @@ async function addContact(contactData) {
   return newContact;
 }
 
-async function updateContactById(contactId, data) {
+async function updateContactById(contactId, newData) {
   const contacts = await listContacts();
   const index = contacts.findIndex((contact) => contact.id === contactId);
 
@@ -40,7 +39,7 @@ async function updateContactById(contactId, data) {
     return null;
   }
 
-  contacts[index] = { ...data, id: contactId };
+  contacts[index] = { ...newData, id: contactId };
 
   await write(contacts);
 

@@ -1,4 +1,5 @@
 Command Line Contacts Management App
+
 This command line application provides a convenient way to manage a list of contacts. You can add, view, update, and delete contacts using command line commands.
 
 Installation:
@@ -43,7 +44,7 @@ For each operation, provide the necessary parameters such as name, email, phone 
 
 Examples:
 
-    case "list": https://ibb.co/SmYg1J0
+    ![case "list": ](https://i.ibb.co/Wz8XdsF/list.png)
 	
     case "get": https://ibb.co/1RRSfHp
 
